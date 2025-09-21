@@ -11,12 +11,12 @@
       "images": {
         "_comment": "2 ảnh cho desktop (left, right) và 2 ảnh cho mobile",
         "desktop": {
-          "left": "./src/1N2A3423.jpg",
-          "right": "./src/1N2A3999.jpg"
+          "left": "./src/1N2A3423.JPG",
+          "right": "./src/1N2A3999.JPG"
         },
         "mobile": {
-          "left": "./src/1N2A3423.jpg",
-          "right": "./src/1N2A3999.jpg"
+          "left": "./src/1N2A3423.JPG",
+          "right": "./src/1N2A3999.JPG"
         }
       },
       "facebook": "https://www.facebook.com/share/16y2F2o39Y/",
@@ -31,12 +31,12 @@
       "images": {
         "_comment": "2 ảnh cho desktop (left, right) và 2 ảnh cho mobile",
         "desktop": {
-          "left": "./src/230414874.jpg",
-          "right": "./src/1N2A4161.jpg"
+          "left": "./src/230414874.JPG",
+          "right": "./src/1N2A4161.JPG"
         },
         "mobile": {
-          "left": "./src/230414874.jpg",
-          "right": "./src/1N2A4161.jpg"
+          "left": "./src/230414874.JPG",
+          "right": "./src/1N2A4161.JPG"
         }
       },
       "facebook": "https://www.facebook.com/share/177j3za6nh/",
@@ -55,11 +55,11 @@
       "_comment": "4 ảnh cho hero slider trên desktop",
       "images": [
         {
-          "url": "./src/1N2A3685.jpg",
+          "url": "./src/1N2A3685.JPG",
           "alt": "Ảnh cưới desktop 1"
         },
         {
-          "url": "./src/1N2A3930.jpg",
+          "url": "./src/1N2A3930.JPG",
           "alt": "Ảnh cưới desktop 2"
         }
       ]
@@ -68,11 +68,11 @@
       "_comment": "4 ảnh riêng cho hero slider trên mobile - tối ưu cho màn hình nhỏ",
       "images": [
         {
-          "url": "./src/1N2A3685.jpg",
+          "url": "./src/1N2A3685.JPG",
           "alt": "Ảnh cưới desktop 1"
         },
         {
-          "url": "./src/1N2A3930.jpg",
+          "url": "./src/1N2A3930.JPG",
           "alt": "Ảnh cưới desktop 2"
         }
       ]
@@ -82,51 +82,51 @@
     "_comment": "Ảnh album cưới trong phần gallery - 12 ảnh cho 12 vị trí",
     "images": [
       {
-        "url": "./src/1N2A3661.jpg",
+        "url": "./src/1N2A3661.JPG",
         "alt": "Album ảnh cưới 1"
       },
       {
-        "url": "./src/1N2A3819.jpg",
+        "url": "./src/1N2A3819.JPG",
         "alt": "Album ảnh cưới 2"
       },
       {
-        "url": "./src/1N2A3860.jpg",
+        "url": "./src/1N2A3860.JPG",
         "alt": "Album ảnh cưới 3"
       },
       {
-        "url": "./src/1N2A4061.jpg",
+        "url": "./src/1N2A4061.JPG",
         "alt": "Album ảnh cưới 4"
       },
       {
-        "url": "./src/1N2A4091.jpg",
+        "url": "./src/1N2A4091.JPG",
         "alt": "Album ảnh cưới 5"
       },
       {
-        "url": "./src/1N2A4127.jpg",
+        "url": "./src/1N2A4127.JPG",
         "alt": "Album ảnh cưới 6"
       },
       {
-        "url": "./src/1N2A3290.jpg",
+        "url": "./src/1N2A3290.JPG",
         "alt": "Album ảnh cưới 7"
       },
       {
-        "url": "./src/1N2A3338.jpg",
+        "url": "./src/1N2A3338.JPG",
         "alt": "Album ảnh cưới 8"
       },
       {
-        "url": "./src/1N2A3419.jpg",
+        "url": "./src/1N2A3419.JPG",
         "alt": "Album ảnh cưới 9"
       },
       {
-        "url": "./src/1N2A3518.jpg",
+        "url": "./src/1N2A3518.JPG",
         "alt": "Album ảnh cưới 10"
       },
       {
-        "url": "./src/1N2A3528.jpg",
+        "url": "./src/1N2A3528.JPG",
         "alt": "Album ảnh cưới 11"
       },
       {
-        "url": "./src/1N2A3579.jpg",
+        "url": "./src/1N2A3579.JPG",
         "alt": "Album ảnh cưới 12"
       }
     ]
@@ -229,14 +229,14 @@
       "bankName": "Ngân hàng Vietcombank",
       "accountNumber": "1021000011615",
       "accountName": "DO THI THANH YEN",
-      "qrCode": "./images/qr_codau.jpg"
+      "qrCode": "./images/qr_codau.JPG"
     },
     "groom": {
       "name": "Hoàng Trọng Tuyên",
       "bankName": "Ngân hàng Vietcombank",
       "accountNumber": "9369004863",
       "accountName": "HOANG TRONG TUYEN",
-      "qrCode": "./images/qr_chure.jpg"
+      "qrCode": "./images/qr_chure.JPG"
     }
   },
   "_instructions": {
