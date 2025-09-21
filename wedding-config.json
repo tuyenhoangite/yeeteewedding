@@ -1,0 +1,251 @@
+{
+  "_comment": "File cấu hình thiệp cưới - Chỉ cần thay đổi thông tin trong file này",
+  "coupleInfo": {
+    "_comment": "Thông tin cô dâu chú rể",
+    "bride": {
+      "name": "Đỗ Thị Thanh Yên",
+      "title": "Cô Dâu",
+      "parents": "Con gái của ông bà Đỗ Hữu Cảnh và Lê Thị Miến",
+      "description": "Tiệc cưới được tổ chức tại nhà gái bắt đầu từ 15h ngày 29 - 09 - 2025. \n Tại Thôn Phú Mỹ, Xã Đông Ninh, Tỉnh Hưng Yên. \n Rất hân hạnh được đón tiếp!",
+      "image": "https://lh3.google.com/u/2/d/1l_S6Dgl50g4mOdhPb5oIiIudIKFO1TGz=w1910-h1004-iv1?auditContext=prefetch",
+      "images": {
+        "_comment": "2 ảnh cho desktop (left, right) và 2 ảnh cho mobile",
+        "desktop": {
+          "left": "./src/1N2A3423.JPG",
+          "right": "./src/1N2A3999.jpg"
+        },
+        "mobile": {
+          "left": "./src/1N2A3423.JPG",
+          "right": "./src/1N2A3999.jpg"
+        }
+      },
+      "facebook": "https://www.facebook.com/share/16y2F2o39Y/",
+      "instagram": "#"
+    },
+    "groom": {
+      "name": "Hoàng Trọng Tuyên",
+      "title": "Chú Rể",
+      "parents": "Con trai của ông bà Hoàng Văn Tính và Vũ Thị Thủy",
+      "description": "Tiệc cưới được tổ chức tại nhà trai bắt đầu từ 15h ngày 29 - 09 - 2025. \n Tại Thôn Nam, Xã Phúc Thọ, Thành Phố Hà Nội. \n Rất hân hạnh được đón tiếp!",
+      "image": "https://drive.google.com/file/d/17Wnu5OSuwhmjKl1BEI3aDZaA0OfcEHOF/view?usp=drive_link",
+      "images": {
+        "_comment": "2 ảnh cho desktop (left, right) và 2 ảnh cho mobile",
+        "desktop": {
+          "left": "./src/230414874.jpg",
+          "right": "./src/1N2A4161.jpg"
+        },
+        "mobile": {
+          "left": "./src/230414874.jpg",
+          "right": "./src/1N2A4161.jpg"
+        }
+      },
+      "facebook": "https://www.facebook.com/share/177j3za6nh/",
+      "instagram": "#"
+    }
+  },
+  "weddingDate": {
+    "_comment": "Thông tin ngày cưới - Format: YYYY-MM-DDTHH:MM:SS",
+    "datetime": "2025-09-30T10:00:00",
+    "displayDate": "30 . 09 . 2025",
+    "invitationText": "Lễ vu quy!"
+  },
+  "heroSlider": {
+    "_comment": "Ảnh slider ở phần hero - Desktop và Mobile có ảnh riêng biệt",
+    "desktop": {
+      "_comment": "4 ảnh cho hero slider trên desktop",
+      "images": [
+        {
+          "url": "./src/1N2A3685.JPG",
+          "alt": "Ảnh cưới desktop 1"
+        },
+        {
+          "url": "./src/1N2A3930.JPG",
+          "alt": "Ảnh cưới desktop 2"
+        }
+      ]
+    },
+    "mobile": {
+      "_comment": "4 ảnh riêng cho hero slider trên mobile - tối ưu cho màn hình nhỏ",
+      "images": [
+        {
+          "url": "./src/1N2A3685.JPG",
+          "alt": "Ảnh cưới desktop 1"
+        },
+        {
+          "url": "./src/1N2A3930.JPG",
+          "alt": "Ảnh cưới desktop 2"
+        }
+      ]
+    }
+  },
+  "galleryImages": {
+    "_comment": "Ảnh album cưới trong phần gallery - 12 ảnh cho 12 vị trí",
+    "images": [
+      {
+        "url": "./src/1N2A3661.JPG",
+        "alt": "Album ảnh cưới 1"
+      },
+      {
+        "url": "./src/1N2A3819.JPG",
+        "alt": "Album ảnh cưới 2"
+      },
+      {
+        "url": "./src/1N2A3860.JPG",
+        "alt": "Album ảnh cưới 3"
+      },
+      {
+        "url": "./src/1N2A4061.JPG",
+        "alt": "Album ảnh cưới 4"
+      },
+      {
+        "url": "./src/1N2A4091.JPG",
+        "alt": "Album ảnh cưới 5"
+      },
+      {
+        "url": "./src/1N2A4127.JPG",
+        "alt": "Album ảnh cưới 6"
+      },
+      {
+        "url": "./src/1N2A3290.JPG",
+        "alt": "Album ảnh cưới 7"
+      },
+      {
+        "url": "./src/1N2A3338.JPG",
+        "alt": "Album ảnh cưới 8"
+      },
+      {
+        "url": "./src/1N2A3419.JPG",
+        "alt": "Album ảnh cưới 9"
+      },
+      {
+        "url": "./src/1N2A3518.JPG",
+        "alt": "Album ảnh cưới 10"
+      },
+      {
+        "url": "./src/1N2A3528.JPG",
+        "alt": "Album ảnh cưới 11"
+      },
+      {
+        "url": "./src/1N2A3579.JPG",
+        "alt": "Album ảnh cưới 12"
+      }
+    ]
+  },
+  "weddingEvents": {
+    "_comment": "Thông tin các sự kiện trong ngày cưới",
+    "day1": {
+      "date": "Ngày 29 tháng 9 năm 2025",
+      "lunarDate": "(Ngày 08 tháng 08 Âm lịch)",
+      "events": [
+        {
+          "title": "Lễ ăn hỏi",
+          "time": "7 giờ - 9 giờ",
+          "description": "Xe xuất phát từ nhà trai"
+        },
+        {
+          "title": "Tiệc cưới",
+          "time": "15 giờ - 19 giờ",
+          "description": "Tiệc cưới được tổ chức tại địa điểm nhà trai và nhà gái theo địa chỉ trên map."
+        }
+      ]
+    },
+    "day2": {
+      "date": "Ngày 30 tháng 9 năm 2025",
+      "lunarDate": "(Ngày 09 tháng 08 Âm lịch)",
+      "events": [
+        {
+          "title": "Lễ đón dâu",
+          "time": "7 giờ - 9 giờ",
+          "description": "Xe xuất phát từ nhà trai"
+        },
+        {
+          "title": "Tiệc cưới",
+          "time": "11 giờ - 13 giờ",
+          "description": "Tiệc cưới được tổ chức tại nhà trai bắt đầu từ 11 giờ."
+        }
+      ]
+    },
+    "_legacy": {
+      "ceremony": {
+        "title": "Lễ Thành Hôn",
+        "icon": "fas fa-church",
+        "date": "Thứ Hai, 29/09/2025",
+        "time": "14:00 AM",
+        "venue": "Đảo Hồ Nam",
+        "address": "Thôn Nam, Xã Phúc Thọ, Thành Phố Hà Nội"
+      },
+      "reception": {
+        "title": "Tiệc Cưới",
+        "icon": "fas fa-utensils",
+        "date": "Thứ Ba, 30/09/2025",
+        "time": "10:30 AM",
+        "venue": "Đảo Hồ Nam",
+        "address": "Thôn Nam, Xã Phúc Thọ, Thành Phố Hà Nội"
+      }
+    }
+  },
+  "contactInfo": {
+    "_comment": "Thông tin liên hệ và mạng xã hội",
+    "facebook": "#",
+    "instagram": "#",
+    "twitter": "#"
+  },
+  "musicSettings": {
+    "_comment": "Cài đặt nhạc nền",
+    "musicFile": "./images/wedding-music.mp3",
+    "volume": 0.3,
+    "autoPlay": true
+  },
+  "seoSettings": {
+    "_comment": "Cài đặt SEO và meta tags",
+    "title": "Wedding Invitation - Thiệp Cưới Online",
+    "description": "Thiệp cưới online của chúng tôi - Chúng tôi sắp kết hôn!",
+    "ogImage": "https://images.unsplash.com/photo-1519741497674-611481863552?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80"
+  },
+  "mapSettings": {
+    "_comment": "Cài đặt Google Maps - Thay đổi embed URL theo địa điểm thực tế",
+    "brideFamily": {
+      "title": "Nhà Gái",
+      "address": "Thôn Phú Mỹ, Xã Đông Ninh, Tỉnh Hưng Yên",
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3729.628974441792!2d105.93353507525053!3d20.806292980787916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjDCsDQ4JzIyLjciTiAxMDXCsDU2JzEwLjAiRQ!5e0!3m2!1svi!2s!4v1758464546898!5m2!1svi!2s"
+    },
+    "groomFamily": {
+      "title": "Nhà Trai",
+      "address": "Thôn Nam, Xã Phúc Thọ, Thành Phố Hà Nội",
+      "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3722.6154783598345!2d105.58379697545078!3d21.088014680576244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3134599d839ab69d%3A0x22f721e5ff7f84fe!2zxJDhuqNvIEjhu5MgTmFt!5e0!3m2!1sen!2s!4v1758464234224!5m2!1sen!2s"
+    }
+  },
+  "sliderSettings": {
+    "_comment": "Cài đặt slider",
+    "heroAutoPlayInterval": 7000,
+    "galleryAutoPlayInterval": 5000
+  },
+  "bankingInfo": {
+    "_comment": "Thông tin tài khoản ngân hàng và QR code",
+    "title": "Mừng Cưới",
+    "description": "Thay lời chúc, cảm ơn bạn đã gửi lời chúc mừng đến đám cưới của chúng tôi",
+    "bride": {
+      "name": "Đỗ Thị Thanh Yên",
+      "bankName": "Ngân hàng Vietcombank",
+      "accountNumber": "1021000011615",
+      "accountName": "DO THI THANH YEN",
+      "qrCode": "./images/qr_codau.jpg"
+    },
+    "groom": {
+      "name": "Hoàng Trọng Tuyên",
+      "bankName": "Ngân hàng Vietcombank",
+      "accountNumber": "9369004863",
+      "accountName": "HOANG TRONG TUYEN",
+      "qrCode": "./images/qr_chure.jpg"
+    }
+  },
+  "_instructions": {
+    "howToUse": "Để customize website:",
+    "step1": "Thay đổi thông tin trong file này",
+    "step2": "Upload ảnh của bạn lên imgur, cloudinary hoặc hosting khác",
+    "step3": "Copy URL ảnh và paste vào các trường image trong file này",
+    "step4": "Thay đổi tên, địa chỉ, ngày cưới theo thông tin thực tế",
+    "step5": "Chạy website để xem kết quả",
+    "note": "Không cần chỉnh sửa code HTML/CSS/JS, chỉ cần thay đổi file JSON này"
+  }
+} 
