@@ -11,11 +11,11 @@
       "images": {
         "_comment": "2 ảnh cho desktop (left, right) và 2 ảnh cho mobile",
         "desktop": {
-          "left": "./src/1N2A3423.JPG",
+          "left": "./src/1N2A3423.jpg",
           "right": "./src/1N2A3999.jpg"
         },
         "mobile": {
-          "left": "./src/1N2A3423.JPG",
+          "left": "./src/1N2A3423.jpg",
           "right": "./src/1N2A3999.jpg"
         }
       },
@@ -55,11 +55,11 @@
       "_comment": "4 ảnh cho hero slider trên desktop",
       "images": [
         {
-          "url": "./src/1N2A3685.JPG",
+          "url": "./src/1N2A3685.jpg",
           "alt": "Ảnh cưới desktop 1"
         },
         {
-          "url": "./src/1N2A3930.JPG",
+          "url": "./src/1N2A3930.jpg",
           "alt": "Ảnh cưới desktop 2"
         }
       ]
@@ -68,11 +68,11 @@
       "_comment": "4 ảnh riêng cho hero slider trên mobile - tối ưu cho màn hình nhỏ",
       "images": [
         {
-          "url": "./src/1N2A3685.JPG",
+          "url": "./src/1N2A3685.jpg",
           "alt": "Ảnh cưới desktop 1"
         },
         {
-          "url": "./src/1N2A3930.JPG",
+          "url": "./src/1N2A3930.jpg",
           "alt": "Ảnh cưới desktop 2"
         }
       ]
@@ -82,51 +82,51 @@
     "_comment": "Ảnh album cưới trong phần gallery - 12 ảnh cho 12 vị trí",
     "images": [
       {
-        "url": "./src/1N2A3661.JPG",
+        "url": "./src/1N2A3661.jpg",
         "alt": "Album ảnh cưới 1"
       },
       {
-        "url": "./src/1N2A3819.JPG",
+        "url": "./src/1N2A3819.jpg",
         "alt": "Album ảnh cưới 2"
       },
       {
-        "url": "./src/1N2A3860.JPG",
+        "url": "./src/1N2A3860.jpg",
         "alt": "Album ảnh cưới 3"
       },
       {
-        "url": "./src/1N2A4061.JPG",
+        "url": "./src/1N2A4061.jpg",
         "alt": "Album ảnh cưới 4"
       },
       {
-        "url": "./src/1N2A4091.JPG",
+        "url": "./src/1N2A4091.jpg",
         "alt": "Album ảnh cưới 5"
       },
       {
-        "url": "./src/1N2A4127.JPG",
+        "url": "./src/1N2A4127.jpg",
         "alt": "Album ảnh cưới 6"
       },
       {
-        "url": "./src/1N2A3290.JPG",
+        "url": "./src/1N2A3290.jpg",
         "alt": "Album ảnh cưới 7"
       },
       {
-        "url": "./src/1N2A3338.JPG",
+        "url": "./src/1N2A3338.jpg",
         "alt": "Album ảnh cưới 8"
       },
       {
-        "url": "./src/1N2A3419.JPG",
+        "url": "./src/1N2A3419.jpg",
         "alt": "Album ảnh cưới 9"
       },
       {
-        "url": "./src/1N2A3518.JPG",
+        "url": "./src/1N2A3518.jpg",
         "alt": "Album ảnh cưới 10"
       },
       {
-        "url": "./src/1N2A3528.JPG",
+        "url": "./src/1N2A3528.jpg",
         "alt": "Album ảnh cưới 11"
       },
       {
-        "url": "./src/1N2A3579.JPG",
+        "url": "./src/1N2A3579.jpg",
         "alt": "Album ảnh cưới 12"
       }
     ]
